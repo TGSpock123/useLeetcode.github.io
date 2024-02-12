@@ -49,8 +49,8 @@ cmake_ninja_workdir = /Users/tgspock/Documents/GitHub/useLeetcode.github.io/cmak
 
 build cmake_object_order_depends_target_useLeetcode_github_io: phony || CMakeFiles/useLeetcode_github_io.dir
 
-build CMakeFiles/useLeetcode_github_io.dir/3.c.o: C_COMPILER__useLeetcode_github_io_unscanned_Debug /Users/tgspock/Documents/GitHub/useLeetcode.github.io/3.c || cmake_object_order_depends_target_useLeetcode_github_io
-  DEP_FILE = CMakeFiles/useLeetcode_github_io.dir/3.c.o.d
+build CMakeFiles/useLeetcode_github_io.dir/389.c.o: C_COMPILER__useLeetcode_github_io_unscanned_Debug /Users/tgspock/Documents/GitHub/useLeetcode.github.io/389.c || cmake_object_order_depends_target_useLeetcode_github_io
+  DEP_FILE = CMakeFiles/useLeetcode_github_io.dir/389.c.o.d
   FLAGS = -g -std=gnu11 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/useLeetcode_github_io.dir
   OBJECT_FILE_DIR = CMakeFiles/useLeetcode_github_io.dir
@@ -63,7 +63,7 @@ build CMakeFiles/useLeetcode_github_io.dir/3.c.o: C_COMPILER__useLeetcode_github
 #############################################
 # Link the executable useLeetcode_github_io
 
-build useLeetcode_github_io: C_EXECUTABLE_LINKER__useLeetcode_github_io_Debug CMakeFiles/useLeetcode_github_io.dir/3.c.o
+build useLeetcode_github_io: C_EXECUTABLE_LINKER__useLeetcode_github_io_Debug CMakeFiles/useLeetcode_github_io.dir/389.c.o
   FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7
   OBJECT_DIR = CMakeFiles/useLeetcode_github_io.dir
   POST_BUILD = :
