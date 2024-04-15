@@ -1,0 +1,250 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tgspo\\Documents\\GitHub\\useLeetcode.github.io\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tgspo\\Documents\\GitHub\\useLeetcode.github.io\\50.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:50.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tgspo\\Documents\\GitHub\\useLeetcode.github.io\\1768.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:1768.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tgspo\\Documents\\GitHub\\useLeetcode.github.io\\1672.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:1672.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tgspo\\Documents\\GitHub\\useLeetcode.github.io\\1480.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:1480.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tgspo\\Documents\\GitHub\\useLeetcode.github.io\\1342.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:1342.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tgspo\\Documents\\GitHub\\useLeetcode.github.io\\412.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:412.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tgspo\\Documents\\GitHub\\useLeetcode.github.io\\389.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:389.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tgspo\\Documents\\GitHub\\useLeetcode.github.io\\13.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:13.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tgspo\\Documents\\GitHub\\useLeetcode.github.io\\20.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:20.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tgspo\\Documents\\GitHub\\useLeetcode.github.io\\12.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:12.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tgspo\\Documents\\GitHub\\useLeetcode.github.io\\9.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:9.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tgspo\\Documents\\GitHub\\useLeetcode.github.io\\3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tgspo\\Documents\\GitHub\\useLeetcode.github.io\\1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tgspo\\Documents\\GitHub\\useLeetcode.github.io\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CMakeLists.txt",
+              "DocumentMoniker": "C:\\Users\\tgspo\\Documents\\GitHub\\useLeetcode.github.io\\CMakeLists.txt",
+              "RelativeDocumentMoniker": "CMakeLists.txt",
+              "ToolTip": "C:\\Users\\tgspo\\Documents\\GitHub\\useLeetcode.github.io\\CMakeLists.txt",
+              "RelativeToolTip": "CMakeLists.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-18T11:56:00.902Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "50.c",
+              "DocumentMoniker": "C:\\Users\\tgspo\\Documents\\GitHub\\useLeetcode.github.io\\50.c",
+              "RelativeDocumentMoniker": "50.c",
+              "ToolTip": "C:\\Users\\tgspo\\Documents\\GitHub\\useLeetcode.github.io\\50.c",
+              "RelativeToolTip": "50.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-27T05:26:24.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "1768.c",
+              "DocumentMoniker": "C:\\Users\\tgspo\\Documents\\GitHub\\useLeetcode.github.io\\1768.c",
+              "RelativeDocumentMoniker": "1768.c",
+              "ToolTip": "C:\\Users\\tgspo\\Documents\\GitHub\\useLeetcode.github.io\\1768.c",
+              "RelativeToolTip": "1768.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-27T05:21:46.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "1672.c",
+              "DocumentMoniker": "C:\\Users\\tgspo\\Documents\\GitHub\\useLeetcode.github.io\\1672.c",
+              "RelativeDocumentMoniker": "1672.c",
+              "ToolTip": "C:\\Users\\tgspo\\Documents\\GitHub\\useLeetcode.github.io\\1672.c",
+              "RelativeToolTip": "1672.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-27T05:21:45.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "1480.c",
+              "DocumentMoniker": "C:\\Users\\tgspo\\Documents\\GitHub\\useLeetcode.github.io\\1480.c",
+              "RelativeDocumentMoniker": "1480.c",
+              "ToolTip": "C:\\Users\\tgspo\\Documents\\GitHub\\useLeetcode.github.io\\1480.c",
+              "RelativeToolTip": "1480.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-27T05:21:41.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "1342.c",
+              "DocumentMoniker": "C:\\Users\\tgspo\\Documents\\GitHub\\useLeetcode.github.io\\1342.c",
+              "RelativeDocumentMoniker": "1342.c",
+              "ToolTip": "C:\\Users\\tgspo\\Documents\\GitHub\\useLeetcode.github.io\\1342.c",
+              "RelativeToolTip": "1342.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-27T05:21:37.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "412.c",
+              "DocumentMoniker": "C:\\Users\\tgspo\\Documents\\GitHub\\useLeetcode.github.io\\412.c",
+              "RelativeDocumentMoniker": "412.c",
+              "ToolTip": "C:\\Users\\tgspo\\Documents\\GitHub\\useLeetcode.github.io\\412.c",
+              "RelativeToolTip": "412.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-27T05:21:34.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "389.c",
+              "DocumentMoniker": "C:\\Users\\tgspo\\Documents\\GitHub\\useLeetcode.github.io\\389.c",
+              "RelativeDocumentMoniker": "389.c",
+              "ToolTip": "C:\\Users\\tgspo\\Documents\\GitHub\\useLeetcode.github.io\\389.c",
+              "RelativeToolTip": "389.c",
+              "ViewState": "AQIAABIAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-27T05:21:32.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "13.c",
+              "DocumentMoniker": "C:\\Users\\tgspo\\Documents\\GitHub\\useLeetcode.github.io\\13.c",
+              "RelativeDocumentMoniker": "13.c",
+              "ToolTip": "C:\\Users\\tgspo\\Documents\\GitHub\\useLeetcode.github.io\\13.c",
+              "RelativeToolTip": "13.c",
+              "ViewState": "AQIAABgAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-27T05:21:28.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20.c",
+              "DocumentMoniker": "C:\\Users\\tgspo\\Documents\\GitHub\\useLeetcode.github.io\\20.c",
+              "RelativeDocumentMoniker": "20.c",
+              "ToolTip": "C:\\Users\\tgspo\\Documents\\GitHub\\useLeetcode.github.io\\20.c",
+              "RelativeToolTip": "20.c",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-27T05:21:23.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "12.c",
+              "DocumentMoniker": "C:\\Users\\tgspo\\Documents\\GitHub\\useLeetcode.github.io\\12.c",
+              "RelativeDocumentMoniker": "12.c",
+              "ToolTip": "C:\\Users\\tgspo\\Documents\\GitHub\\useLeetcode.github.io\\12.c",
+              "RelativeToolTip": "12.c",
+              "ViewState": "AQIAACQAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-27T05:21:19.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "9.c",
+              "DocumentMoniker": "C:\\Users\\tgspo\\Documents\\GitHub\\useLeetcode.github.io\\9.c",
+              "RelativeDocumentMoniker": "9.c",
+              "ToolTip": "C:\\Users\\tgspo\\Documents\\GitHub\\useLeetcode.github.io\\9.c",
+              "RelativeToolTip": "9.c",
+              "ViewState": "AQIAADAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-27T05:21:13.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "3.c",
+              "DocumentMoniker": "C:\\Users\\tgspo\\Documents\\GitHub\\useLeetcode.github.io\\3.c",
+              "RelativeDocumentMoniker": "3.c",
+              "ToolTip": "C:\\Users\\tgspo\\Documents\\GitHub\\useLeetcode.github.io\\3.c",
+              "RelativeToolTip": "3.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-27T05:21:11.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "1.c",
+              "DocumentMoniker": "C:\\Users\\tgspo\\Documents\\GitHub\\useLeetcode.github.io\\1.c",
+              "RelativeDocumentMoniker": "1.c",
+              "ToolTip": "C:\\Users\\tgspo\\Documents\\GitHub\\useLeetcode.github.io\\1.c",
+              "RelativeToolTip": "1.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-27T05:20:29.576Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
