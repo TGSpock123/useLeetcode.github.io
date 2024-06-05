@@ -128,29 +128,29 @@ useLeetcode_github_io/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\useLeetcode_github_io.dir\build.make CMakeFiles/useLeetcode_github_io.dir/build
 .PHONY : useLeetcode_github_io/fast
 
-42.obj: 42.c.obj
-.PHONY : 42.obj
+2.obj: 2.c.obj
+.PHONY : 2.obj
 
 # target to build an object file
-42.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\useLeetcode_github_io.dir\build.make CMakeFiles/useLeetcode_github_io.dir/42.c.obj
-.PHONY : 42.c.obj
+2.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\useLeetcode_github_io.dir\build.make CMakeFiles/useLeetcode_github_io.dir/2.c.obj
+.PHONY : 2.c.obj
 
-42.i: 42.c.i
-.PHONY : 42.i
+2.i: 2.c.i
+.PHONY : 2.i
 
 # target to preprocess a source file
-42.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\useLeetcode_github_io.dir\build.make CMakeFiles/useLeetcode_github_io.dir/42.c.i
-.PHONY : 42.c.i
+2.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\useLeetcode_github_io.dir\build.make CMakeFiles/useLeetcode_github_io.dir/2.c.i
+.PHONY : 2.c.i
 
-42.s: 42.c.s
-.PHONY : 42.s
+2.s: 2.c.s
+.PHONY : 2.s
 
 # target to generate assembly for a file
-42.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\useLeetcode_github_io.dir\build.make CMakeFiles/useLeetcode_github_io.dir/42.c.s
-.PHONY : 42.c.s
+2.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\useLeetcode_github_io.dir\build.make CMakeFiles/useLeetcode_github_io.dir/2.c.s
+.PHONY : 2.c.s
 
 # Help Target
 help:
@@ -161,9 +161,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... useLeetcode_github_io
-	@echo ... 42.obj
-	@echo ... 42.i
-	@echo ... 42.s
+	@echo ... 2.obj
+	@echo ... 2.i
+	@echo ... 2.s
 .PHONY : help
 
 

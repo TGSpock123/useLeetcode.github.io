@@ -68,28 +68,28 @@ include CMakeFiles/useLeetcode_github_io.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/useLeetcode_github_io.dir/flags.make
 
-CMakeFiles/useLeetcode_github_io.dir/42.c.obj: CMakeFiles/useLeetcode_github_io.dir/flags.make
-CMakeFiles/useLeetcode_github_io.dir/42.c.obj: C:/Users/tgspo/Documents/GitHub/useLeetcode.github.io/42.c
-CMakeFiles/useLeetcode_github_io.dir/42.c.obj: CMakeFiles/useLeetcode_github_io.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\tgspo\Documents\GitHub\useLeetcode.github.io\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/useLeetcode_github_io.dir/42.c.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/useLeetcode_github_io.dir/42.c.obj -MF CMakeFiles\useLeetcode_github_io.dir\42.c.obj.d -o CMakeFiles\useLeetcode_github_io.dir\42.c.obj -c C:\Users\tgspo\Documents\GitHub\useLeetcode.github.io\42.c
+CMakeFiles/useLeetcode_github_io.dir/2.c.obj: CMakeFiles/useLeetcode_github_io.dir/flags.make
+CMakeFiles/useLeetcode_github_io.dir/2.c.obj: C:/Users/tgspo/Documents/GitHub/useLeetcode.github.io/2.c
+CMakeFiles/useLeetcode_github_io.dir/2.c.obj: CMakeFiles/useLeetcode_github_io.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\tgspo\Documents\GitHub\useLeetcode.github.io\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/useLeetcode_github_io.dir/2.c.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/useLeetcode_github_io.dir/2.c.obj -MF CMakeFiles\useLeetcode_github_io.dir\2.c.obj.d -o CMakeFiles\useLeetcode_github_io.dir\2.c.obj -c C:\Users\tgspo\Documents\GitHub\useLeetcode.github.io\2.c
 
-CMakeFiles/useLeetcode_github_io.dir/42.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/useLeetcode_github_io.dir/42.c.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\tgspo\Documents\GitHub\useLeetcode.github.io\42.c > CMakeFiles\useLeetcode_github_io.dir\42.c.i
+CMakeFiles/useLeetcode_github_io.dir/2.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/useLeetcode_github_io.dir/2.c.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\tgspo\Documents\GitHub\useLeetcode.github.io\2.c > CMakeFiles\useLeetcode_github_io.dir\2.c.i
 
-CMakeFiles/useLeetcode_github_io.dir/42.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/useLeetcode_github_io.dir/42.c.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\tgspo\Documents\GitHub\useLeetcode.github.io\42.c -o CMakeFiles\useLeetcode_github_io.dir\42.c.s
+CMakeFiles/useLeetcode_github_io.dir/2.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/useLeetcode_github_io.dir/2.c.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\tgspo\Documents\GitHub\useLeetcode.github.io\2.c -o CMakeFiles\useLeetcode_github_io.dir\2.c.s
 
 # Object files for target useLeetcode_github_io
 useLeetcode_github_io_OBJECTS = \
-"CMakeFiles/useLeetcode_github_io.dir/42.c.obj"
+"CMakeFiles/useLeetcode_github_io.dir/2.c.obj"
 
 # External object files for target useLeetcode_github_io
 useLeetcode_github_io_EXTERNAL_OBJECTS =
 
-useLeetcode_github_io.exe: CMakeFiles/useLeetcode_github_io.dir/42.c.obj
+useLeetcode_github_io.exe: CMakeFiles/useLeetcode_github_io.dir/2.c.obj
 useLeetcode_github_io.exe: CMakeFiles/useLeetcode_github_io.dir/build.make
 useLeetcode_github_io.exe: CMakeFiles/useLeetcode_github_io.dir/linkLibs.rsp
 useLeetcode_github_io.exe: CMakeFiles/useLeetcode_github_io.dir/objects1.rsp

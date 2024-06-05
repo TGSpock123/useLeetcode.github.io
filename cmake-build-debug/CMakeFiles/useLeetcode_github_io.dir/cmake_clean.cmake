@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/useLeetcode_github_io.dir/42.c.obj"
-  "CMakeFiles/useLeetcode_github_io.dir/42.c.obj.d"
+  "CMakeFiles/useLeetcode_github_io.dir/2.c.obj"
+  "CMakeFiles/useLeetcode_github_io.dir/2.c.obj.d"
   "libuseLeetcode_github_io.dll.a"
   "useLeetcode_github_io.exe"
   "useLeetcode_github_io.exe.manifest"

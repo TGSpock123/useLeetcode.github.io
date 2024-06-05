@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/tgspo/Documents/GitHub/useLeetcode.github.io/42.c" "CMakeFiles/useLeetcode_github_io.dir/42.c.obj" "gcc" "CMakeFiles/useLeetcode_github_io.dir/42.c.obj.d"
+  "C:/Users/tgspo/Documents/GitHub/useLeetcode.github.io/2.c" "CMakeFiles/useLeetcode_github_io.dir/2.c.obj" "gcc" "CMakeFiles/useLeetcode_github_io.dir/2.c.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.
